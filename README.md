@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tomoki826
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning programing
+- 👋 こんにちは！　私は @Tomoki826です！
+- 👀 フロントエンジニアに興味があります
+- 🌱 現在はGithubや基礎知識を学んでいます
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
