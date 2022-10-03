@@ -1,8 +1,8 @@
 - 👋 こんにちは！　私は @Tomoki826です！
 - 👀 フロントエンジニアに興味があります
 - 🌱 現在はGithubや基礎知識を学んでいます
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ 誰でもコラボウェルカムです！
+- 📫 現在は名古屋市在住、東京に憧れ
 
 <!---
 Tomoki826/Tomoki826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
